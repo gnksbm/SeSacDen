@@ -51,9 +51,7 @@
 		BEE5214B2CB4F75900363E9E /* SeSacDen */ = {
 			isa = PBXGroup;
 			children = (
-				BEE5214C2CB4F75900363E9E /* SeSacDenApp.swift */,
-				BEE5214E2CB4F75900363E9E /* ContentView.swift */,
-				BEE521502CB4F75C00363E9E /* Assets.xcassets */,
+				BEE5215A2CB4F8C100363E9E /* Den */,
 				BEE521522CB4F75C00363E9E /* Preview Content */,
 			);
 			path = SeSacDen;
@@ -65,6 +63,16 @@
 				BEE521532CB4F75C00363E9E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		BEE5215A2CB4F8C100363E9E /* Den */ = {
+			isa = PBXGroup;
+			children = (
+				BEE5214C2CB4F75900363E9E /* SeSacDenApp.swift */,
+				BEE5214E2CB4F75900363E9E /* ContentView.swift */,
+				BEE521502CB4F75C00363E9E /* Assets.xcassets */,
+			);
+			path = Den;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
